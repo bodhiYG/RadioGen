@@ -1,6 +1,6 @@
 # AI-Powered Playlist Generator
 
-An intelligent music playlist generator that analyzes audio files to create mood and energy-based playlists using PyTorch machine learning.
+A music playlist generator that analyzes audio files to create mood and energy-based playlists using PyTorch machine learning.
 
 ## Features
 
