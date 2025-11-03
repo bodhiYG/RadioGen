@@ -2,6 +2,9 @@
 
 A music playlist generator that analyzes audio files to create mood and energy-based playlists using PyTorch machine learning.
 
+**This repository was re-created after being mistakenly pushed to the wrong GitHub account.  
+As a result, the full commit history from the original repository is not reflected here.**
+
 ## Features
 
 - **Audio Analysis**: Extract tempo, loudness, spectral centroid, and other audio features
